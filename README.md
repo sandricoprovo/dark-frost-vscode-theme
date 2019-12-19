@@ -3,7 +3,7 @@
 I've grown up on the atlantic coast of canada, and even though I am not a fan being cold I've always loved the colors of winter here. I also love VS Code and theming things, so I thought it would be fun to take a stab at it! Hopefully you enjoy 😄.
 
 Previews
-![A preview of the theme.](https://github.com/sandricoprovo/dark-frost-vscode-theme/blob/master/dark-frost/assets/previewImage.png?raw=true)
+![A preview of the theme.](https://github.com/sandricoprovo/dark-frost-vscode-theme/blob/master/assets/previewImage.png?raw=true)
 
 ## Installation
 
