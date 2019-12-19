@@ -1,0 +1,6 @@
+demo/**
+.vscode/**
+.vscodeignore
+.DS_Store
+dark-frost/vsc-extension-quickstart.md
+

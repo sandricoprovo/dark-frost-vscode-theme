@@ -1,0 +1,21 @@
+{
+    "name": "dark-frost",
+    "displayName": "Dark Frost",
+    "description": "A theme inspired by the colors of atlantic canada in the winter.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Frost",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-Frost-color-theme.json"
+            }
+        ]
+    }
+}
