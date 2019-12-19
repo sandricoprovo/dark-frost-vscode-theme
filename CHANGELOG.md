@@ -4,7 +4,7 @@ All notable changes to the "dark-frost" extension will be documented in this fil
 
 ## [1.0.1] - December 19, 2019
 
-- Fixed status bar readability issue.
+- Fixed status bar readability issue while debugging.
 
 ## [1.0.0] - December 19, 2019
 
