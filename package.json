@@ -1,7 +1,12 @@
 {
     "name": "dark-frost",
     "displayName": "Dark Frost",
-    "description": "A theme inspired by the colors of atlantic canada in the winter.",
+    "description": "A theme inspired by the colours of Atlantic Canada in the winter.",
+    "publisher": "sprovo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sandricoprovo/dark-frost-vscode-theme"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.41.0"
