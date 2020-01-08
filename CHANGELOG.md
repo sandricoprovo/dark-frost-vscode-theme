@@ -2,6 +2,10 @@
 
 All notable changes to the "dark-frost" extension will be documented in this file.
 
+## [1.1.0] - December 19, 2019
+
+- Updated colors
+
 ## [1.0.1] - December 19, 2019
 
 - Fixed status bar readability issue while debugging.

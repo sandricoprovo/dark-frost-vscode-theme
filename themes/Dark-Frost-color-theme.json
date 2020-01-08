@@ -308,7 +308,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#9dc4ff"
+				"foreground": "#afcfff"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 				"support.type.property-name.css"
 			],
 			"settings": {
-				"foreground": "#e98c6e"
+				"foreground": "#d0ddef"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#9dc4ff"
+				"foreground": "#e98c6e"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#6ecfaf"
+				"foreground": "#b4e47d"
 			}
 		},
 		{
