@@ -12,7 +12,16 @@
         "vscode": "^1.41.0"
     },
     "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "VSCode",
         "Themes"
+    ],
+    "extensionKind": [
+        "ui",
+        "workspace"
     ],
     "contributes": {
         "themes": [
@@ -20,6 +29,11 @@
                 "label": "Dark Frost",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Dark-Frost-color-theme.json"
+            },
+            {
+                "label": "Dark Frost Atlantic Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark-Frost-Midnight-color-theme.json"
             }
         ]
     }

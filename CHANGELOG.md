@@ -2,6 +2,10 @@
 
 All notable changes to the "dark-frost" extension will be documented in this file.
 
+## [2.0.0] - February 4, 2021
+
+- Added a new theme variant named Dark Frost Midnight
+
 ## [1.1.0] - December 19, 2019
 
 - Updated colors
